@@ -1,0 +1,25 @@
+.container-advice {
+  width: 540px;
+  height: 332px;
+  background-color: #313a4b;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  text-align: center;
+}
+
+.advice-content {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.new-button {
+  width: 100px;
+  height: 100px;
+  border-radius: 100px;
+  background-color: #0963c2;
+  border: none;
+  outline: none;
+}
